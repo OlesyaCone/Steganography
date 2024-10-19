@@ -1,2 +1,2 @@
 # steganography
-https://olesyacone.github.io/steganography/
+https://olesyacone.github.io/Steganography/
